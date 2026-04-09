@@ -7,6 +7,7 @@
 
 .section-wrap a {
     text-decoration: underline;
+    text-underline-offset: 1px;
 }
 
 @media (max-width: 1200px) {

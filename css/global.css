@@ -447,3 +447,8 @@ footer a {
     color: var(--text3);
     text-align: center;
 }
+
+footer a {
+    text-decoration: underline;
+    text-underline-offset: 1px;
+}
