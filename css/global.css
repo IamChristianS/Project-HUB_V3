@@ -439,7 +439,10 @@ footer {
     padding: 16px;
 
     border-top: 1px solid var(--border);
+}
 
+footer p,
+footer a {
     font-size: 0.8rem;
     color: var(--text3);
     text-align: center;

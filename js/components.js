@@ -37,7 +37,8 @@ function buildFooter() {
 	const year = new Date().getFullYear();
 
 	footer.innerHTML = `
-        ${year} &copy; Christian Santangelo
+        <p><a href="https://github.com/IamChristianS/Project-HUB_V3" target="_blank">Check out the GitHub Repo</a> ● <a href="https://forms.gle/FuhUKVByGVhnG1ME9" target="_blank">Request a Game</a></p>
+        <p>${year} &copy; Christian Santangelo</p>
     `;
 }
 
